@@ -1,0 +1,31 @@
+Control de Laboratorio Nro. 2 – G  1
+
+1.	Para el  siguiente caso presentado hallar  lo pedido:
+
+Una importante empresa  de  transportes interprovinciales ha  decidido mejorar el manejo de su información y ha  redefinido su negocio con las  siguientes características:
+
+La  empresa  presta  servicios de transporte de pasajeros, de encomiendas (bultos pequeños  y medianos)  en  muchas ciudades del país y con una sede central en Lima.
+
+Los clientes pueden hacer reserva de boletos y cancelarlos hasta  con 24 horas de anticipación de la prestación del servicio, de no ser cancelada el servicio reservado queda  disponible. Esta reserva podrá ser realizada a través de Internet y /o a través de una  llamada  al call center  de la empresa.
+
+Para realizar la reserva por Internet, los clientes  podrán  optar por un registro previo rápido (nombres y apellidos, tipo y numero del documento de identidad, fecha de nacimiento, sexo, y número de teléfono fijo y/o celular)  o amplio (dirección, correo electrónico, requerimientos  especiales para el viaje- por salud o por alimentación),  al registrarse por Internet. Al hacerlo por  teléfono tendrá  también  ambas  posibilidades. Toda  reserva que se haga  para  un menor de edad, deberá ser realizada por  alguno de sus padres  o  tutor autorizado.
+
+Cada reserva puede incluir la ubicación deseada (ubicación del asiento). Para  esto el sistema brindará  una  imagen de la distribución y tipos de asientos para cada servicio. Cuando el cliente  accede directamente a Internet podrá observar la distribución y si es por call center la persona de atención brindará la información correspondiente que facilite la elección del asiento. Del mismo modo para aquellos  viajes de larga  duración se podrá  seleccionar  el tipo de refrigerio a brindar deseado.
+
+Cada viaje generalmente tiene para  una misma combinación origen-destino una posibilidad de turnos de salida-llegada asi como diversos precios dependiendo del tipo de asiento (ubicación) brindada por el bus que cubrirá el servicio.  La empresa  cuenta  con  tres  tipos de bus para el transporte los  cuales tienen algunas facilidades adicionales, como los baños, la alimentación, o servicios de internet en el bus.
+
+A  cada  viaje  se  le  asigna una  tripulación de chofer (y chofer de remplazo si la duración del viaje lo exige) y una o dos terramozas dependiendo de la cantidad de pasajeros y duración del servicio. Es necesario considerar  todos los  datos relativos a estos dos tipos de empleados así como el resto de trabajadores de la empresa.
+
+Existen  unidades especiales para prestar los servicios de transporte de carga,  el cual  puede  incluir  servicios  de recojo de mercadería desde el remitente  y con  entrega al destinatario en la agencia de la localidad o entrega  también en el lugar de destino señalado,  que  consideran en  su  cotos  dichos  transportes. La información a recabar de los clientes para  transporte de carga incluye la  posibilidad de que sea una empresa en lugar de una persona individual la solicitante del servicio.
+
+Considere todas las características señaladas y de ser necesario incluya todas las adicionales que permitan a Ud. modelar de forma precisa y más detallada sus clases y las relaciones entre ellas. En el modelo considerar dentro de cada clase, considerar no solo los atributos sino el tipo de los mismos y una longitud máxima por cada uno. 
+ 
+
+
+
+a)	Construya el Diagrama de Clases persistentes para el caso antes expuesto (8 p)
+b)	Habiendo definido persistencia en el diagrama anterior según sus propias consideraciones, construya el modelo de datos que quedaría y defina para cada tabla que atributos serian claves primarias o foráneas (10 p).
+c)	Genere el script para la creación de tablas requeridas  para su BD solución.(tipo SQLserver) (2 p).
+
+Indicaciones para entregar archivo solución:
+El alumno debe renombrar este archivo *.doc  y lo nombrará teniendo como nombre la inicial del primer nombre del alumno, unido a su apellido paterno. (Ejemplo para el alumno Eduardo Rojas Ponce será ERojas…Archivo en Word: ERojas.doc). En el deberá incluir las imágenes de los diagramas y script solicitado.
